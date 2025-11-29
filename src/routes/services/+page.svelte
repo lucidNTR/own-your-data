@@ -2,9 +2,12 @@
 	<title>Services // Own-Your-Data.org</title>
 </svelte:head>
 
-<h1>Your Digital Footprint</h1>
+<h1>Your Data (ALL PLACEHOLDERS)</h1>
 <p style="margin-bottom: 2rem; color: #888;">
-	They hold your digital life. Here is how you take it back.
+	Please submit missing or outdated information: <a
+		href="https://github.com/own-your-data/own-your-data/issues/new/choose"
+		>Submit an issue</a
+	>
 </p>
 
 <div class="company-section">
@@ -12,27 +15,21 @@
 	<ul class="service-list">
 		<li class="service-item">
 			<h3>Gmail <span class="rating rating-b">B</span></h3>
-			<p>
-				Emails, attachments, contacts, calendar events.
-			</p>
+			<p>Emails, attachments, contacts, calendar events.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Export your data via Google Takeout.
 			</div>
 		</li>
 		<li class="service-item">
 			<h3>Google Search <span class="rating rating-a">A</span></h3>
-			<p>
-				Search history, clicked links, preferences.
-			</p>
+			<p>Search history, clicked links, preferences.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Download your search history.
 			</div>
 		</li>
 		<li class="service-item">
 			<h3>Chrome <span class="rating rating-c">C</span></h3>
-			<p>
-				Browsing history, bookmarks, passwords, extensions.
-			</p>
+			<p>Browsing history, bookmarks, passwords, extensions.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Export bookmarks and passwords.
 			</div>
@@ -45,27 +42,21 @@
 	<ul class="service-list">
 		<li class="service-item">
 			<h3>Facebook & Messenger <span class="rating rating-d">D</span></h3>
-			<p>
-				Posts, photos, friends list, messages, events.
-			</p>
+			<p>Posts, photos, friends list, messages, events.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Download your information from Privacy Center.
 			</div>
 		</li>
 		<li class="service-item">
 			<h3>WhatsApp <span class="rating rating-b">B</span></h3>
-			<p>
-				Chat history, media, contacts, group memberships.
-			</p>
+			<p>Chat history, media, contacts, group memberships.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Request your account info.
 			</div>
 		</li>
 		<li class="service-item">
 			<h3>Instagram <span class="rating rating-c">C</span></h3>
-			<p>
-				Photos, videos, stories, comments, likes.
-			</p>
+			<p>Photos, videos, stories, comments, likes.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Download your data.
 			</div>
@@ -78,9 +69,7 @@
 	<ul class="service-list">
 		<li class="service-item">
 			<h3>Alexa / Echo <span class="rating rating-d">D</span></h3>
-			<p>
-				Voice commands, smart home device state, lists.
-			</p>
+			<p>Voice commands, smart home device state, lists.</p>
 			<div class="service-actions">
 				<strong>ACTION:</strong> Request your personal data.
 			</div>
