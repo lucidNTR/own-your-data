@@ -23,10 +23,9 @@
 		</p>
 		<p>
 			In the age of AI, this extraction accelerates. Your thoughts, your
-			creativity, your very identity are being strip-mined to train the
+			creativity and your very identity are being strip-mined to train the
 			algorithms that will feed you poison. Owning your data isn't just
-			about privacy anymore; it's about self-determination. It's about
-			refusing to be a tenant in a digital world you helped build.
+			about privacy anymore; it's about self-determination.
 		</p>
 		<p>
 			It's time to prepare for a world of infinite software enabled by
@@ -44,8 +43,7 @@
 		create or is created about us, metadata and primary data. We have the right
 		to store, transfer, compute and automate however we like. We have a right
 		to access our feeds and our networks in the same way as our own data, as
-		long as we do not republish the data that is not our own. Effectively that
-		means a human right to use our own clients, true user agents, for any platform.
+		long as it is not republished without the permission of the original data owner.
 	</div>
 
 	<div class="cta-container">
