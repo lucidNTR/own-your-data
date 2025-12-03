@@ -9,14 +9,12 @@
 <section>
 	<div class="mission-statement">
 		<p>
-			The internet was built on a promise of decentralization, but we've
-			allowed it to become a feudal estate. Tech giants treat your digital
-			life as a raw material to be extracted, refined, and sold to the
-			highest bidder. They pretend to give you ownership to appease
-			regulators. In reality they go out of their way to cripple access
-			and make every step as painful as possible. Companies hide behind
-			false flags of security and privacy to justify taking more and more
-			of your control.
+			Tech giants treat your digital life as a raw material to be extracted, refined, and sold to
+			the highest bidder. They pretend to give you control to appease regulators. In reality, they
+			go out of their way to cripple data access and make every step as painful as
+			possible — partly to keep you locked in, partly to hide how much they know, partly to keep you
+			in a consumer mindset, or simply because there's no profit in it. Companies hide behind
+			false flags of security and privacy to justify stripping away your control.
 		</p>
 		<p>
 			<strong>This is not a glitch. It is the business model.</strong>
