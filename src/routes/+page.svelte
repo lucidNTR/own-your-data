@@ -32,6 +32,20 @@
 		</p>
 	</div>
 
+	<div class="why-care">
+		<strong>Why Would You Care?</strong>
+		<p>
+			Private full-text search across your digital life. Custom apps for anything — personal
+			accounting, health tracking, quantified self. Rich context for your personal AI. True data
+			portability between services. A backup for when platforms shut down, delete your account, or
+			simply vanish. Even things that were not feasible until now will become possible with personal AI that generates personal applications just for you.
+		</p>
+		<p>
+			Even if none of this appeals to you today, it's in your interest to defend this right. If we
+			give up now, we'll only realise what we lost when it's too late.
+		</p>
+	</div>
+
 	<div class="core-belief">
 		<strong>Mission</strong>
 		We believe it is a human right to fully own and control the data we create
